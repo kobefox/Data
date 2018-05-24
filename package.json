@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alameda County",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          "37.6017,121.7195"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Contra Costa County",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          "38.003805, -122.184308"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Francisco County",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          "37.7749,122.4194"
+        ],
+        "type": "Point"
+      }
+    },
+  "type": "Feature Collection"
+}

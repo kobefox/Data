@@ -1,0 +1,54 @@
+ /*{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+*/
+ //Each station has data. Data can be attached to the placeholder "Station Name" later
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Station 18",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          "37.850595, -122.419832"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Station 21",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          "37.803903, -122.366439"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Station 15",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [
+          "37.965602, -122.440317"
+        ],
+        "type": "Point"
+      }
+    },
+ "type": "FeatureCollection"
+}
